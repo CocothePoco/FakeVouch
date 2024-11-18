@@ -22,8 +22,7 @@ This project is a Discord bot written in JavaScript using the `discord.js` libra
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/yourusername/your-repo.git
-    cd your-repo
+    git clone https://github.com/CocothePoco/FakeVouch.git
     ```
 
 2. **Run the Setup Script**:
